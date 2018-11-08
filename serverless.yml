@@ -12,7 +12,13 @@ custom:
   stage: "${opt:stage, self:provider.stage}"
   webpack:
     webpackConfig: ./webpack.config.js
-    includeModules: true
+    includeModules:
+      forceExclude:
+      - puppeteer
+    packagerOptions:
+      scripts:
+      - npm install puppeteer --ignore-scripts
+
 
 provider:
   name: aws
