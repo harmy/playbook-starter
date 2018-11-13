@@ -1,8 +1,6 @@
-// const puppeteerLib = require("./lib/puppeteerFunc");
-import puppeteerLib from "./lib/puppeteerFunc";
+import puppeteerLib from "./lib/puppeteer-func";
 
 export const showIP = async (event, context, callback) => {
-  // module.exports.showIP = async (event, context, callback) => {
   let master = null;
   console.log(event.Actor.ID);
 

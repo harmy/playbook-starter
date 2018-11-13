@@ -1,0 +1,56 @@
+{
+  "Actor": {
+    "ID": "1002d219-c71d-428e-bd90-ae96aab97a71",
+    "CountryCode": "US",
+    "Languages": [
+      "en_US"
+    ],
+    "Name": {
+      "GivenName": "James",
+      "MiddleInitial": "C",
+      "MothersMaiden": "Bartsch",
+      "Surname": "Speicher",
+      "Title": "Mr."
+    },
+    "Sex": "male",
+    "Birthday": "1990-12-19T00:00:00Z",
+    "UsernamePrefix": "Sagifen",
+    "Timezone": "America/Los_Angeles",
+    "Device": null,
+    "Mobile": "",
+    "Address": {
+      "City": "Mira Loma",
+      "Country": "United States",
+      "State": "CA",
+      "StateFull": "California",
+      "Street": "326 Bel Meadow Drive",
+      "ZipCode": "91752"
+    },
+    "Company": "First Rate Choice",
+    "Occupation": "Human resources administrative assistant",
+    "Tags": null,
+    "Location": {
+      "lat": 34.043182,
+      "lon": -117.594535
+    },
+    "Accounts": null,
+    "States": null,
+    "Cookies": null,
+    "Status": null,
+    "BrowserUserAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.2",
+    "Proxy": {
+      "Endpoint": "ee4de2df711b8efa",
+      "IP": "99.203.11.156",
+      "Server": "18.215.17.167",
+      "Port": "2640",
+      "Authentication": true,
+      "Username": "ee4de2df711b8efa",
+      "Password": "vydOvifQ5e7TUQb8"
+    },
+    "CreatedAt": "2018-11-05T10:13:40Z",
+    "UpdatedAt": "2018-11-05T10:13:40Z"
+  },
+  "ActorID": "1002d219-c71d-428e-bd90-ae96aab97a71",
+  "IgnoreSleeping": false,
+  "Params": null
+}
